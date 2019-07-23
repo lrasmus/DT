@@ -35,7 +35,8 @@ Suggests:
     jsonlite (>= 0.9.16),
     knitr (>= 1.8),
     rmarkdown,
-    shiny (>= 1.1.0)
+    shiny (>= 1.1.0),
+    testit
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
 Encoding: UTF-8
